@@ -30,9 +30,9 @@ dependencies:
   cupertino_icons: ^1.0.8
 
 
-  package:
-    git:
-      url: https://github.com/bitrise-io/sample-apps-flutter-ios-android-package.git
+  # package:
+  #   git:
+  #     url: https://github.com/bitrise-io/sample-apps-flutter-ios-android-package.git
 
 
 dev_dependencies:
